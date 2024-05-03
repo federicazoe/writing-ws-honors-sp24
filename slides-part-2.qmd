@@ -1,0 +1,266 @@
+---
+title: "Writing your honors thesis"
+author: (Part 2) <br> Federica Zoe Ricci <br> UCI Statistics, PhD Student <br>
+date: May 3 2024
+format: 
+  revealjs:
+    slide-number: true
+    incremental: true
+    scrollable: true
+---
+
+## Outline
+
+-   Last time: thesis format and global + local clarity
+
+-   Today: thesis sections + how to get started writing
+
+-   Hands-on session
+
+    -   Rearrange in groups of 2 students
+
+    -   Search [bit.ly/uci-honors-worksheet](https://bit.ly/uci-honors-worksheet)
+
+    -   Make your own copy
+
+    -   Pick a paper in your area from [bit.ly/uci-honors-examples](https://bit.ly/uci-honors-examples)
+
+## Getting started writing: when?
+
+Different strategies:
+
+-   *After* the project is concluded: Project –\> Writing
+
+-   *During* project development*:* Project *–\>* Writing -\> Project -\> ...
+
+-   Can even think of thesis *before* starting on the project: Writing -\> Project -\> ... **More about this today!**
+
+. . .
+
+Good to ask your advisor if they have a specific deadline in mind?\
+
+## Sections of a short thesis / paper
+
+::: {.nonincremental}
+
+-   Abstract - *overview of the project*
+
+-   Introduction - *what is your project about?*
+
+-   Background - *what has been done before/what is known?*
+
+-   Methods - *what did you do and how?*
+
+-   Results - *what did you find out?*
+
+-   Discussion - *what do your findings mean?*
+
+:::
+
+## Abstract
+
+Why do we write it?
+
+-   Give the reader an overview of what they will find in the paper if they move on to read it.
+
+. . .
+
+How can we achieve that? A simple way:
+
+-   One sentence that summarizes the [introduction]{style="color:#1277E3;"}. One for the [background]{style="color:#098309;"}. One for the [methods]{style="color:#E58F1B;"}. One for the [results]{style="color:#C01BE5;"}. One for the [discussion]{style="color:#E51B80;"}.
+
+. . .
+
+## General abstract example
+
+<br>
+
+[XXX is important because of YYY.]{style="color:#1277E3;"} [Previous studies demonstrated / have neglected ZZZ.]{style="color:#098309;"} [In this work we do QQQ.]{style="color:#E58F1B;"} [We find that BBB.]{style="color:#C01BE5;"} [Our study suggests that KKK.]{style="color:#E51B80;"}
+
+## Abstract - the example thesis
+
+One sentence per section is a good rule of thumb, but other ways can work too:
+
+## Example thesis
+
+[Abstract from honors thesis submitted in a past year. Only shared within UCI honors class. Hidden in public version of workshop for protection of students' data.]
+
+. . .
+
+You: How do you think this abstract could be enhanced?
+
+. . .
+
+My opinion: Shrink a bit the background information while add something specific about results and takeaways!
+
+## Abstract 
+
+::: {.callout-caution icon="true"}
+## Workout (8 min)
+
+Complete section Abstract in your copy of the worksheet.
+
+Raise your hand for questions/feedback.
+:::
+
+## Abstract - can be tricky
+
+## Your perspective
+
+[Quotes from survey responses about challenges of writing an abstract. Actual response hidden in public version of workshop for protection of students' data.]
+
+. . .
+
+::: callout-tip
+Try to be as done as possible with all sections *before* writing the abstract.
+
+Then, re-read your whole paper (or thesis), think what the **one or two main points of each section** were, and write one sentence for each point/couple points.
+
+Refine from there.
+:::
+
+. . .
+
+Questions/comments about the abstract? :)
+
+## Introduction
+
+What's it for?
+
+. . .
+
+Your introduction should give answers to these questions:
+
+-   What topic has your work been about?
+
+-   What are some of the most important aspects of this topic?
+
+-   Why is this topic relevant to society and/or to your scientific community?
+
+-   What is known about this topic and what is still unclear?
+
+-   How does your thesis connect to what is known and unknown of this topic?
+
+## Introduction
+
+Challenges
+
+-   There is so much that I can introduce the reader to. How do I select what to talk about?
+
+. . .
+
+::: {.callout-tip icon="true"}
+## My advice
+
+Stretch your mind further into the paper: what does the reader need to know in order to understand *and* appreciate your methods and results?
+:::
+
+. . .
+
+::: {.callout-tip icon="true"}
+## My advice
+
+What is something *you* think is particularly exciting of this topic - make sure you communicate that excitement!
+:::
+
+## Introduction
+
+More challenges
+
+-   How much can I assume that the reader knows?
+
+. . .
+
+::: {.callout-tip icon="true"}
+## My advice
+
+As you write, think that every undergraduate student should be able to follow your introduction.
+
+You can be specific, but be gentle, e.g. remind the reader of definitions.
+
+You *can* write obvious things to establish the grounds, e.g. *Developing new cyber-security tools is ever more important*. Pro-move is back it up with figures/statements from a reputable source, e.g. *as demonstrated by a 30 percent increase in the number of cyber incidents recorded in 2023 by Orange Cyberdefense, one of the leading security providers \[citation\]*.
+:::
+
+## Introduction 
+
+::: {.callout-caution icon="true"}
+## Workout (8 min)
+
+Complete section Introduction in your copy of the worksheet.
+
+Raise your hand for questions/feedback.
+:::
+
+## Background
+
+Two types of information:
+
+-   Summary of the things you have learned that enabled you to carry out this project
+
+-   Summary of what the reader needs to know in order to understand your methods and results
+
+. . .
+
+Can start writing the first as soon as possible. Need to go back to the second point after you are done with Results.
+
+## Methods
+
+*What did you do and how?*
+
+-   Important to give enough details so your project is reproducible! (can use an appendix if needed)
+
+-   Great if you make a visualization to summarize your methods
+
+## Methods 
+
+::: {.callout-caution icon="true"}
+## Workout (8 min)
+
+Complete section methods in your copy of the worksheet.
+
+Raise your hand for questions/feedback.
+:::
+
+## Results
+
+-   Focus on a few, well explained points (e.g. 1 or 2 main results)
+
+-   Think how you would visualize these results best
+
+-   Make these visualizations and write "around" the visualizations
+
+## Results
+
+::: callout-tip
+How to write a paper
+
+Start from thinking how you would visualize the results: what will your main figures be?
+
+Then, in reverse, plan introduction, background and methods that **lead the reader** to understand and appreciate these results.
+
+This process can be done at the beginning of the project, to help you visualize where you want to get!
+:::
+
+## Results
+
+::: {.callout-caution icon="true"}
+## Workout (8 min)
+
+Complete section Results in your copy of the worksheet.
+
+Raise your hand for questions/feedback.
+:::
+
+## Group discussion
+
+<br>
+
+Some groups come discuss their ideas for results, if time allows
+
+## What we covered today
+
+-   Some strategies for starting writing a thesis (or one of its section) from scratch that lend itself into a good overall thesis (e.g. start from results, from an image or a table)
+
+-   Writing the thesis can be helpful for us to understand/develop our project
+
+# The end!

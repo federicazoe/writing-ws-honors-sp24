@@ -1,0 +1,244 @@
+---
+title: "Writing your honors thesis"
+author: (Part 1) <br> Federica Zoe Ricci <br> UCI Statistics, PhD Student <br>
+date: May 1 2024
+format: 
+  revealjs:
+    slide-number: true
+    incremental: true
+    scrollable: true
+    embed-resources: true
+---
+
+## What are we doing today and Friday?
+
+-   Addressing your doubts and concerns about thesis writing
+
+-   Discuss common mistakes
+
+-   Look at examples for what's good or less-good
+
+-   Share tips
+
+## Something about me
+
+-   I like Statistics - maybe I am weird
+
+-   I like writing - I am definitely weird
+
+-   I work with CS professor Erik Sudderth on statistical models for network data
+
+. . .
+
+{{< fa envelope >}}   fzricci\@uci.edu
+
+{{< fa globe >}}   <https://federicazoe.github.io/>
+
+## Something about you
+
+![](img/topics.jpg)
+
+\[A bar chart showing survey answers to question: What would you say the field(s) of your thesis are? (feel free to add other options if not listed). Examples answers were: ML, Software Engineering. Plot is hidden in public version of workshop for protection of students' data.\]
+
+## Your deadlines and your progress
+
+![](img/deadline-progress.jpg)
+
+\[Two pie charts side-by-side showing survey answers to two questions: "When do you plan to submit your thesis? "and "Honors thesis: have you started writing it?". Plots are hidden in public version of workshop for protection of students' data.\]
+
+## The thesis you are planning to write
+
+![](img/thesis-type.jpg)
+
+\[A pie chart showing survey answers to the question: "As of now, what kind of thesis do you plan to write? " with options "A short-to-medium paper style, 10-20 pages" or "A longer thesis, maybe with more extensive literature review (20+ pages)". Plots are hidden in public version of workshop for protection of students' data.\]
+
+## Your confidence
+
+![](img/confidence.jpg){fig-align="center"}
+
+\[A pie chart showing survey answers to the question: "Honors thesis: how confident do you feel about its format requirements (e.g. structure, length, style, etc.) " with options "I don't know much about it" or "I am 99.9% confident". Plots are hidden in public version of workshop for protection of students' data.\]
+
+## Recurring doubts: Sections
+
+\[Quotes from survey responses indicating need to know more about what sections are included in a honors thesis. Actual answers are hidden in public version of workshop for protection of students' data.\]
+
+## Sections of a short thesis / paper
+
+-   Abstract - *overview of the project*
+
+-   Introduction - *what is your project about?*
+
+-   Background - *what has been done before/what is known?*
+
+-   Methods - *what did you do and how?*
+
+-   Results - *what did you find out?*
+
+-   Discussion - *what do your findings mean?*
+
+. . .
+
+We will dig into each of these more!
+
+## Recurring doubts: Standard Format?
+
+\[Quotes from survey responses indicating need to know more about what format/template a honors thesis should follow. Actual answers are hidden in public version of workshop for protection of students' data.\]
+
+## A flexible thesis
+
+*It is up to the student and their faculty advisor to determine the most appropriate form for their thesis, including questions such as exact format, page count, word count, headings, etc.*
+
+(From [UCI honors research and thesis requirements](https://honors.uci.edu/campuswide-honors-research-and-thesis-requirements/))
+
+## Examples of thesis (and formats) {#examples-of-thesis-and-formats}
+
++----------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Area                       | Example Format                                                                                                         |
++============================+========================================================================================================================+
+| Machine Learning           | [NeurIPS conference-paper style](https://drive.google.com/drive/folders/13MeDt3bdG1zZMx1KPQxKri6jzdq2U-yO);            |
+|                            |                                                                                                                        |
+|                            | [No specific template, short thesis](https://drive.google.com/drive/folders/1T5_9UXai7xCIyZhyvu47Sr-rwJGHTRH5)         |
++----------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Software Engineering       | [UCI thesis template (medium thesis)](https://drive.google.com/drive/folders/1p4exumtMR_SoZbxNC4bOl7j3AA6BX-3M)        |
++----------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Informatics                | [No specific template (medium thesis)](https://drive.google.com/drive/folders/18ENDi54TqlFRoT2tObINpzZn6qvY3vmE);      |
+|                            |                                                                                                                        |
+|                            | [Short conference paper](https://drive.google.com/drive/folders/1IsnMi9Jk8auRZYu3paReUuYkr8FKDvif)                     |
++----------------------------+------------------------------------------------------------------------------------------------------------------------+
+| CS Education               | [CHI conference extended-abstract style](https://drive.google.com/drive/folders/112q6XbdZGSfexgzQD4u0BgZ2v8tHDjVM)     |
++----------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Cybersecurity              | [No specific template (medium thesis)](https://drive.google.com/drive/folders/1ky8bFKa64nl6auswKcdsR4VRrEuyP8lX)       |
++----------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Game design                | [No specific template (short thesis)](https://drive.google.com/drive/folders/1gds9w1eDFCu_jN3ugajaT90rXrd8Gqkk)        |
++----------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Computer Systems           | [No specific template (short thesis)](https://drive.google.com/drive/folders/1yp8PV6MTO7KdTN859YS3VjQmHrc4TupP)        |
++----------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Data Science               | [Data Science (two-column conference paper)](https://drive.google.com/drive/folders/1AtRTqSNZ3LKtbWQwdDYKS5VEbyOiHJvV) |
++----------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Human-Computer Interaction | [No specific template (short thesis)](https://drive.google.com/drive/folders/17WtXvq26E_jvyzrTFne9bhB1wQE3uuzE)        |
++----------------------------+------------------------------------------------------------------------------------------------------------------------+
+| Algorithms                 | [UCI template (long thesis)](https://drive.google.com/drive/folders/11v3Zi3LE_tdOwZbBgxsn6E5C2F66LcnY)                 |
++----------------------------+------------------------------------------------------------------------------------------------------------------------+
+
+## Choosing *your* format
+
+-   Take a look at the examples and see which styles you like!
+
+-   If you choose a conference paper, there usually are templates, e.g. [NeurIPS](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles) (search for others!)
+
+-   UCI has [Word and LateX templates](https://guides.lib.uci.edu/gradmanual/templates) for a Master's or PhD thesis, which you can use too
+
+-   Ask your advisor if they are on board with your choice
+
+## Your challenges with writing
+
+**Clarity**
+
+What makes for a clear thesis or paper?
+
+{{< fa arrow-right >}} Clarity is **global clarity** + **local** **clarity** (e.g. individual sentences, figures etc.)
+
+## What affects overall clarity?
+
+-   what content is included/not included
+
+    Examples of common problems?
+
+    -   Not explicit about what you worked on exactly
+
+    -   Not explaining why you chose the method you used
+
+        [A good example {{< fa magnifying-glass >}}](https://drive.google.com/drive/folders/1LLAew3n71PpblH7A0lZZcYQNlAH93xum) (highlighted text in Sec 1.2, Sec. 2 and Sec. 3)
+
+    -   Good principle: *every element in a story must be necessary, and irrelevant elements should be removed*
+
+## What affects overall clarity?
+
+-   how content is organized in your thesis
+
+    -   your focus should be clear very soon
+
+        [Do not wait until Section 3 - example {{< fa magnifying-glass >}}](https://drive.google.com/drive/folders/1RYqSqtHQm0Zh0DFPhttps://drive.google.com/drive/folders/1xvzJxw8HZFnZPXXjtFS7JGfqHjSocrtJbtRCanpAIPFHEMLr)(highlighted text in Sec 1.2, Sec. 2 and Sec. 3)
+
+    -   you should try introduce concepts close to when you first use them
+
+        [Define a metric, then use it - example {{< fa magnifying-glass >}}](https://drive.google.com/drive/folders/1gRAAnH8o6nkAfnyC3VDZxffvuHXireWx)
+
+        (highlighted text in Sec. 4.1 and 4.4)
+
+    -   can you tell what the story is?
+
+## Ok but.. how do *I* write a clear thesis
+
+-   Generally good idea to work a great deal on the outline, until you see that it does tell a story
+
+    -   Sometimes advisors can help you with this, sometimes it is hard..
+
+    -   Run the outline by a peer (ideally someone who is also writing a thesis)
+
+    ::: callout-caution
+    ## Volunteer needed
+
+    Two people who have *made significant progress* on your thesis, come share with us your story!
+    :::
+
+## What affects local clarity?
+
+-   Individual-sentence clarity
+
+    Common problems:
+
+    -   Using terminology or acronyms that you have not defined
+
+        When I was wrong: It does *not* read as 'advanced'
+
+        Better to use less terminology, but well defined
+
+        Example
+
+    -   Using metrics without defining them
+
+        [Define a metric well - example {{< fa magnifying-glass >}}](https://drive.google.com/drive/folders/1gRAAnH8o6nkAfnyC3VDZxffvuHXireWx)
+
+        (highlighted text in Sec. 4.1)
+
+<!-- -->
+
+-   Clarity of Figures and Tables
+
+    Common problems:
+
+    -   Throwing results at the reader without making sure they can be understood
+
+    -   Not referencing and not making use of your Tables and Figures in the text
+
+        [These tables have been abandoned - example {{< fa magnifying-glass >}}](https://drive.google.com/drive/folders/1cn6axcKdCeDPqJ2g-U3hsUU-Ht58SaiX) (Figure 1, 2)
+
+## What we covered today
+
+-   There is a structure to the thesis, but it's pretty flexible
+-   Each of you knows at least one example thesis close to their thesis topic - see [Examples of thesis (and formats)](#examples-of-thesis-and-formats)
+-   What makes for a clear thesis, overall
+-   What makes for clear individual sentences, figures and tables
+
+## What we are doing Friday
+
+-   What exactly makes for good abstract, introduction, background, methods, results and discussion sections
+
+<!-- -->
+
+-   Tackle another one of the challenges you mentioned: how to get started
+
+## Before we end
+
+Last night's events at UCLA
+
+['Horrific' violence at UCLA after counter-protesters attack pro-Palestinian camp](https://www.bbc.com/news/world-us-canada-68937775) (from BBC)
+
+-   Talk to one another and keep an open mind: universities are places to grow as humans (not only academically)
+
+-   Be compassionate and reject hate, from any side
+
+-   As you think about other people's actions to make a change, I suggest ask yourself what *you* are doing to make a change
+
+# The End (of Part 1)
