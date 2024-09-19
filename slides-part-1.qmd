@@ -24,7 +24,7 @@ format:
 
 -   I like Statistics - maybe I am weird
 
--   I like writing - I am definitely weird
+-   I like writing - I am definitely weird :)
 
 -   I work with CS professor Erik Sudderth on statistical models for network data
 
@@ -38,29 +38,27 @@ format:
 
 ![](img/topics.jpg)
 
-\[A bar chart showing survey answers to question: What would you say the field(s) of your thesis are? (feel free to add other options if not listed). Examples answers were: ML, Software Engineering. Plot is hidden in public version of workshop for protection of students' data.\]
 
 ## Your deadlines and your progress
 
 ![](img/deadline-progress.jpg)
 
-\[Two pie charts side-by-side showing survey answers to two questions: "When do you plan to submit your thesis? "and "Honors thesis: have you started writing it?". Plots are hidden in public version of workshop for protection of students' data.\]
 
 ## The thesis you are planning to write
 
 ![](img/thesis-type.jpg)
 
-\[A pie chart showing survey answers to the question: "As of now, what kind of thesis do you plan to write? " with options "A short-to-medium paper style, 10-20 pages" or "A longer thesis, maybe with more extensive literature review (20+ pages)". Plots are hidden in public version of workshop for protection of students' data.\]
 
 ## Your confidence
 
 ![](img/confidence.jpg){fig-align="center"}
 
-\[A pie chart showing survey answers to the question: "Honors thesis: how confident do you feel about its format requirements (e.g. structure, length, style, etc.) " with options "I don't know much about it" or "I am 99.9% confident". Plots are hidden in public version of workshop for protection of students' data.\]
 
 ## Recurring doubts: Sections
 
-\[Quotes from survey responses indicating need to know more about what sections are included in a honors thesis. Actual answers are hidden in public version of workshop for protection of students' data.\]
+\[Quotes from survey responses indicating need to know more about what sections are included in a honors thesis.\]
+
+(Exact quotes are hidden in public version of workshop for protection of students' data.)
 
 ## Sections of a short thesis / paper
 
@@ -82,7 +80,9 @@ We will dig into each of these more!
 
 ## Recurring doubts: Standard Format?
 
-\[Quotes from survey responses indicating need to know more about what format/template a honors thesis should follow. Actual answers are hidden in public version of workshop for protection of students' data.\]
+\[Quotes from survey responses indicating need to know more about what format/template a honors thesis should follow.\]
+
+(Exact quotes are hidden in public version of workshop for protection of students' data.)
 
 ## A flexible thesis
 
@@ -228,17 +228,5 @@ What makes for a clear thesis or paper?
 <!-- -->
 
 -   Tackle another one of the challenges you mentioned: how to get started
-
-## Before we end
-
-Last night's events at UCLA
-
-['Horrific' violence at UCLA after counter-protesters attack pro-Palestinian camp](https://www.bbc.com/news/world-us-canada-68937775) (from BBC)
-
--   Talk to one another and keep an open mind: universities are places to grow as humans (not only academically)
-
--   Be compassionate and reject hate, from any side
-
--   As you think about other people's actions to make a change, I suggest ask yourself what *you* are doing to make a change
 
 # The End (of Part 1)
